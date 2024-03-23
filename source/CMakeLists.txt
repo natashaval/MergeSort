@@ -1,2 +1,6 @@
 add_executable(mergesort mergesort.cpp)
 target_link_libraries(mergesort PUBLIC MPI::MPI_CXX)
+# add_executable(merge merge.cpp)
+# target_link_libraries(merge PUBLIC MPI::MPI_CXX)
+add_executable(mergesortmpi mergesort-mpi.cpp)
+target_link_libraries(mergesortmpi PUBLIC MPI::MPI_CXX)

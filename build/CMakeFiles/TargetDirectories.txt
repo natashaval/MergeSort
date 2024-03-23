@@ -1,0 +1,6 @@
+/home/natashaval/MergeSort/build/CMakeFiles/edit_cache.dir
+/home/natashaval/MergeSort/build/CMakeFiles/rebuild_cache.dir
+/home/natashaval/MergeSort/build/source/CMakeFiles/mergesort.dir
+/home/natashaval/MergeSort/build/source/CMakeFiles/mergesortmpi.dir
+/home/natashaval/MergeSort/build/source/CMakeFiles/edit_cache.dir
+/home/natashaval/MergeSort/build/source/CMakeFiles/rebuild_cache.dir
